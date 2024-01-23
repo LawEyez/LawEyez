@@ -1,5 +1,7 @@
-#👋 Hi there, I’m Allen
+# Hi there👋, I’m Allen
+
 A builder.
+
 - 👀 Interested in JavaScript, AI, C++, art, stunning UIs and many other things.
 - 🌱 Currently learning a lot of stuff.
 - 💞️ Always looking to collaborate on anything exciting
