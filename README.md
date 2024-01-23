@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Allen
-- 👀 I’m interested in JavaScript, AI, art and many other things.
-- 🌱 I’m currently learning how to learn.
-- 💞️ I’m looking to collaborate on anything exciting
+#👋 Hi there, I’m Allen
+A builder.
+- 👀 Interested in JavaScript, AI, C++, art, stunning UIs and many other things.
+- 🌱 Currently learning a lot of stuff.
+- 💞️ Always looking to collaborate on anything exciting
 - 📫 How to reach me - allenojuka10@gmail.com
 
 <!---
