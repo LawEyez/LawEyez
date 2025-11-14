@@ -1,11 +1,8 @@
 # Hi there👋, I’m Allen
 
-A builder.
+A builder of UIs
 
-- 👀 Interested in JavaScript, AI, C++, art, stunning UIs and many other things.
-- 🌱 Currently learning a lot of stuff.
-- 💞️ Always looking to collaborate on anything exciting
-- 📫 How to reach me - allenojuka10@gmail.com
+www.allenojuka.com[allenojuka.com]
 
 <!---
 LawEyez/LawEyez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
